@@ -1,4 +1,4 @@
-data-science-analyst-project
+Data science-analyst-project
 
 Project Title
 
