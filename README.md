@@ -1,1 +1,1 @@
-# data-business-analyst-project
+# data-science-analyst-project
